@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Hola Mi Taller Push desde VSC Cambio
+          Hola Mi Taller Push desde VSC Cambio 2
         </p>
         <p>
           Edit <code>src/App.js</code> and save to reload.
